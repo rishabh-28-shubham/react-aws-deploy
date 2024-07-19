@@ -7,8 +7,8 @@ This repository contains a Vite/React application to demonstrate the process of 
 - [Project Overview](#project-overview)
 - [Prerequisites](#prerequisites)
 - [Setup Instructions](#setup-instructions)
-    - [Public Repository Deployment](#public-repository-deployment)
-    - [Private Repository Deployment](#private-repository-deployment)
+  - [Public Repository Deployment](#public-repository-deployment)
+  - [Private Repository Deployment](#private-repository-deployment)
 - [Testing the Deployment](#testing-the-deployment)
 - [Troubleshooting](#troubleshooting)
 - [License](#license)
@@ -31,8 +31,8 @@ This project is a simple React application created with Vite. It serves as a tem
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/yourusername/vite-react-aws-deployment.git
-    cd vite-react-aws-deployment
+    git clone https://github.com/rishabh-28-shubham/react-aws-deploy.git
+    cd react-aws-deploy
     ```
 
 2. **Install Dependencies**
@@ -58,8 +58,8 @@ This project is a simple React application created with Vite. It serves as a tem
     Ensure you have access to the private repository. Use the following command:
 
     ```sh
-    git clone git@github.com:yourusername/private-vite-react-aws-deployment.git
-    cd private-vite-react-aws-deployment
+    git clone git@github.com:rishabh-28-shubham/react-aws-deploy.git
+    cd react-aws-deploy
     ```
 
 2. **Install Dependencies**
